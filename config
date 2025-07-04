@@ -1,0 +1,8 @@
+theme = dark:dark,light:light
+font-family = MesloLGS Nerd Font Mono
+font-size = 14
+window-height = 45
+window-width = 150
+window-save-state = always
+macos-icon = blueprint
+macos-titlebar-proxy-icon = hidden
